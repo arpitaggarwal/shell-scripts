@@ -1,0 +1,1 @@
+echo "/home/scripts/deploy.sh" | sudo su - admin

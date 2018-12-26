@@ -1,0 +1,1 @@
+echo "cp /home/user1/test-1.0.0.war /home/user2/war-files" | sudo su - admin
